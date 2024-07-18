@@ -1,0 +1,121 @@
+.header {
+    background-color: aqua;
+}
+
+.logo {
+    display: inline;
+    margin-left: 20px;
+    color: brown;
+}
+.buttons {
+    display: inline-block;
+    margin-left: 880px;
+    text-decoration: none;
+}
+.buttons li {
+    display: inline;
+    margin: 5px 10px;
+}
+.buttons li a {
+    text-decoration: none;
+    font-size: 19px;
+    color: black;
+}
+.signup {
+    margin-left: 30px;
+    text-decoration: none;
+    font-size: 19px;
+    color: rgb(37, 106, 202);
+    border: 2px solid;
+    padding: 5px 12px;
+}
+.main h1 {
+    font-size: 40px;
+    font-style: normal;
+    text-align: center;
+}
+.main p {
+    margin-left: 450px;
+    margin-right: 450px;
+    font-size: 20px;
+    text-align: center;
+}
+
+.freeproenterprise {
+    display: flex; 
+    margin-top: 30px;
+}
+
+.free, .pro, .enterprise {
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 10px;
+    width: 300px;
+    text-align: center;
+    margin-left: 130px;
+}
+.upfree, .uppro, .upenterprise {
+    margin-bottom: 30px;
+}
+.freeword, .proword, .enterpriseword {
+    font-size: 30px;
+    text-align: center;
+}
+.monthlyfree, .monthlypro, .monthlyenterprise {
+    text-align: center;
+}
+.preferences1, .preferences2, .preferences3 {
+    font-size: 17px;
+    text-align: center;
+}
+.signupforfree, .getstarted, .contactus {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 19px;
+    color: rgb(37, 106, 202);
+    border: 2px solid;
+    border-radius: 4px;
+    padding: 5px 28px;
+    margin-top: 10px;
+}
+
+.getstarted {
+    background-color: rgb(37, 106, 202);
+    color: white;
+}
+
+.contactus {
+    color: white;
+    background-color: rgb(37, 106, 202);
+}
+
+.foot {
+    margin-top: 50px;
+    padding: 20px;
+    background-color: #f1f1f1;
+}
+.hr {
+    margin-bottom: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.table1 {
+    margin-left: 550px;
+    text-align: center;
+}
+.foot1 th {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.table1 td {
+    font-size: 15px;
+    padding: 0px 25px;
+}
+.table1 tr {
+    margin-left: 500px;
+}
+.img1 {
+    width: 30px;
+    margin-left: 450px;
+    float: left;
+}
